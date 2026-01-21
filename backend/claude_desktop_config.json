@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "postgres-extensions": {
+      "command": "python",
+      "args": ["C:/Users/admin/Desktop/MCP IDE/backend/mcp_postgres_server.py"],
+      "cwd": "C:/Users/admin/Desktop/MCP IDE/backend",
+      "env": {
+        "PYTHONPATH": "C:/Users/admin/Desktop/MCP IDE/backend",
+        "DATABASE_URL": "postgresql://postgres:NewPassword@localhost:5432/postgres",
+        "DATABASE_URL2": "postgresql://postgres:NewPassword@localhost:5433/postgres",
+        "DATABASE_URL3": "postgresql://postgres:NewPassword@localhost:5434/postgres",
+        "DATABASE_URL4": "postgresql://postgres:NewPassword@localhost:5445/postgres",
+        "DATABASE_URL5": "postgresql://postgres:NewPassword@localhost:5111/postgres",
+        "SAMBANOVA_API_KEY": "8376e688-8a55-4e0c-9416-95219322ec7c",
+        "LOCAL_MODE": "false",
+        "DEBUG": "true"
+      }
+    }
+  }
+}

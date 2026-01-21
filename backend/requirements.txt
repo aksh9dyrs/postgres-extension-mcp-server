@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+pydantic
+geoalchemy2
+pgvector
+scikit-learn
+umap-learn
+requests
+beautifulsoup4
+tqdm
+python-dotenv
+sqlalchemy-utils
+openai
+mcp
